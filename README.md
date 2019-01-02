@@ -4,7 +4,7 @@ This simple program allows you to query businesses on yelp, and converts yelp da
 
 ## Getting Started
 
-pip install -r requirements.txt -t lib
+pip install -r requirements.txt -t lib \n
 python main.py
 
 
